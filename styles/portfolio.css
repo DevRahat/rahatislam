@@ -101,7 +101,13 @@ nav a{
     width: 100%;
 
 }
-
+.btn-primary hover{
+    cursor: alias;
+}
+.btn-primary a{
+    text-decoration: none;
+    color: white;
+}
 /* Main section css*/
 main{
     max-width: 1140px;
